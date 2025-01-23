@@ -1,0 +1,6 @@
+alp:32
+testt:12
+mahmut:6
+Alp:4
+urfa:-12
+yusuf:-26
